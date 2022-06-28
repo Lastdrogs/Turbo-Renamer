@@ -1,4 +1,5 @@
 {
+  "stack": "container",
   "name": "Turbo Renamer",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
