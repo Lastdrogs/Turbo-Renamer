@@ -13,9 +13,10 @@
   "repository": "https://github.com/Lastdrogz/KR-RENAMER-BOT-I",
   "env": {
     "WEBHOOK": {
-    "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-@@ -20,14 +20,6 @@
+      "value": "ANYTHING"
+    },
+    "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
     },
@@ -30,12 +31,14 @@
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
-@@ -38,25 +30,12 @@
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
       "value": "880087645"
-      "value": ""
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
